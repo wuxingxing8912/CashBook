@@ -6,5 +6,5 @@
  3. 月度统计
 
 ## 启动方法
- npm install
- npm run dev
+ - npm install
+ - npm run dev
